@@ -13,7 +13,7 @@ A similar type of AI for you too. Introducing Vectro Desktop Assitant, an AI pro
 
 5.Wish you.
 
-_It is still basic. I'll also post some versions of this. I can also make this a software application as a version later. _
+<i>It is still basic. I'll also post some versions of this. I can also make this a software application as a version later.</i>
 
 
 
